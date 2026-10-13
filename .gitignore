@@ -1,0 +1,10 @@
+.env
+*.key
+.openalex_key
+__pycache__/
+*.pyc
+out/
+*.log
+progress.jsonl
+# never commit real data
+data/
